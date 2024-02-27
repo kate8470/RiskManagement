@@ -12,11 +12,19 @@
 |**Application Title**<br>Risk Management|
 |**Namespace**<br>|
 |**UI5 Theme**<br>sap_horizon|
+<<<<<<< HEAD
 |**UI5 Version**<br>1.120.8|
 |**Enable Code Assist Libraries**<br>False|
 |**Enable TypeScript**<br>False|
 |**Add Eslint configuration**<br>False|
 |**Main Entity**<br>Risks|
+=======
+<<<<<<< HEAD
+|**UI5 Version**<br>1.121.0|
+=======
+|**UI5 Version**<br>1.120.7|
+|**Enable Code Assist Libraries**<br>False|
+>>>>>>> origin/main
 
 ## risk-management
 
